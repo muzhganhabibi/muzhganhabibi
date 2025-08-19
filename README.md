@@ -1,4 +1,4 @@
-# 🌸 Hi lovely people 👋 I'm Muzho ✨  
+نه# 🌸 Hi lovely people 👋 I'm Muzho ✨  
 
 👩‍💻 A creative **Frontend Developer** & 🎨 **UI/UX Designer**  
 🌷 Passionate about making the web more beautiful & user-friendly  
@@ -38,6 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUser&show_icons=true&theme=rose_pine" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUser&theme=rose_pine" />
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=rose&hide_border=true)
+
 
 
