@@ -17,7 +17,7 @@
 
 ---
 <p align="center">
-  <img src="https://link-to-your-pink-girly-image.png" width="250" alt="Cute Girl Banner"/>
+  <img src="https://cdn.nody.ir/files/2021/10/11/nody-%D8%B9%DA%A9%D8%B3-%D9%87%D8%A7%DB%8C-%D9%81%D8%A7%D9%86%D8%AA%D8%B2%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%BE%D8%B3-%D8%B2%D9%85%DB%8C%D9%86%D9%87-%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84-1633944808.jpg" width="250" alt="Cute Girl Banner"/>
 </p>
 
 ## 🎨 Tech Stack I Use  
