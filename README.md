@@ -16,6 +16,9 @@
 - 🌷 Believer in “small details make big differences”  
 
 ---
+<p align="center">
+  <img src="https://link-to-your-pink-girly-image.png" width="250" alt="Cute Girl Banner"/>
+</p>
 
 ## 🎨 Tech Stack I Use  
 <p align="center">
