@@ -4,9 +4,9 @@
 🌷 Passionate about making the web more beautiful & user-friendly  
 📚 Currently learning: **React ⚛️ | Tailwind 🎀 | JavaScript ✨**  
 💕 Love: coding 💻 • coffee ☕ • pastel colors 🎀 • music 🎶  
-💌 Reach me: **your-email@gmail.com**  
+💌 Reach me: muzhganhabibi010@email@gmail.com**  
 
----
+---💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕💕
 
 ## 💕 Little Things About Me  
 - 🌸 Turning ideas into cute & useful websites  
